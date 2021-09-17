@@ -6,5 +6,5 @@ def countdown(segundos):
            print (segundos) 
            segundos = segundos - 1
         print ("La cuenta regresiva termino, ya no te preocupes")
-segundos = 500
+segundos = 6
 countdown(segundos)
